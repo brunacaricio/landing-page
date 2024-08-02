@@ -1,4 +1,4 @@
-Welcome! This is a landing page for The Odin Project. It is a simple landing page that is built using HTML and CSS.
+Welcome! This is a landing page for The Odin Project. It is a simple page built using HTML and CSS.
 
 🔗 Live Demo
 You can view the live demo of the landing page here: https://brunacaricio.github.io/landing-page/
