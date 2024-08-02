@@ -134,11 +134,16 @@ ul a {
 .quote {
   background-color: #E5E7EB;
   padding: 100px;
-  text-align: center;
+  text-align: left;
   font-size: 32px;
   font-style: italic;
   font-weight: 300;
   color: #1F2937
+}
+
+.author {
+  font-weight: 500;
+  margin-bottom: 0;
 }
 
 .call-to-action {
@@ -158,6 +163,7 @@ ul a {
 .cta-title {
   font-weight: 900;
   margin-bottom: 10px;
+  color: #F9FAF8;
 }
 
 .blue-white-button {
